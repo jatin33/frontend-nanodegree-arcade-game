@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Classic Arcade Game Clone Project
 
 ## Table of Contents
@@ -18,3 +19,6 @@ For detailed instructions on how to get started, check out this [guide](https://
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+=======
+# frontend-nanodegree-arcade-game
+>>>>>>> 45ba388f6c1a2120fdeddc98a8e13df04e19e13d
